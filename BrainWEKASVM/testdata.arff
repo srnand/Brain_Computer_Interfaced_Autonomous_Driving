@@ -1,0 +1,12 @@
+@relation emotion
+ 
+@ATTRIBUTE mean		NUMERIC
+@ATTRIBUTE sd	        NUMERIC
+@ATTRIBUTE minimum      NUMERIC
+@ATTRIBUTE maximum      NUMERIC
+@ATTRIBUTE fdif	        NUMERIC
+@ATTRIBUTE sdif	        NUMERIC
+@ATTRIBUTE class	{positive,negative}
+
+@DATA
+-8226,28,-8308,-8145,7,11,positive

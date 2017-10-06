@@ -1,0 +1,43 @@
+@RELATION emotion
+ 
+@ATTRIBUTE mean		NUMERIC
+@ATTRIBUTE sd	        NUMERIC
+@ATTRIBUTE minimum      NUMERIC
+@ATTRIBUTE maximum      NUMERIC
+@ATTRIBUTE fdif	        NUMERIC
+@ATTRIBUTE sdif	        NUMERIC
+@ATTRIBUTE class	{positive,negative}
+
+@DATA
+6693,129,6416,6898,7,10,positive
+1960,28,1881,2028,7,10,positive
+1100,35,1010,1193,7,10,positive
+-3026,46,-3121,-2926,6,10,negative
+13929,47,13794,14053,6,10,positive
+19672,21,19611,19726,6,10,positive
+-8226,28,-8308,-8145,7,11,negative
+-5592,19,-5647,-5535,6,10,negative
+4596,21,4516,4651,6,9,positive
+-1461,28,-1536,-1396,6,10,negative
+16240,40,16123,16321,6,11,positive
+23174,19,23126,23226,6,10,positive
+4591,21,4530,4643,6,10,positive
+2710,27,2648,2776,6,10,positive
+774,49,646,860,6,10,positive
+5828,27,5743,5901,6,10,positive
+7778,39,7673,7855,6,10,positive
+17382,22,17313,17442,6,10,positive
+24066,23,24009,24128,6,10,positive
+4377,33,4285,4453,6,11,positive
+871,108,643,1066,6,10,positive
+4090,24,4007,4141,6,10,positive
+13749,28,13682,13836,6,10,positive
+15084,28,15000,15160,6,11,positive
+10886,35,10787,10959,6,11,positive
+-873,58,-999,-748,6,10,negative
+-2372,29,-2471,-2302,6,11,negative
+3117,34,3032,3202,6,11,positive
+20775,19,20719,20834,6,11,positive
+-1580,37,-1676,-1495,6,11,negative
+499,44,392,605,6,11,positive
+6709,37,6622,6780,6,11,positive
