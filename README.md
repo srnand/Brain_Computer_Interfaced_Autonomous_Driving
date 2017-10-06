@@ -13,3 +13,9 @@ rich user experience. Here, learning using BCI overpowers tedious and error-pron
 Brain-Computer Interface approach allows the user to just think about the desired style of driving, and the car will.
 
 We have used DEAP Dataset for brain signal classification.
+
+## Contributors
+Shrinand Thakkar <shthakkar@cs.stonybrook.edu>
+
+
+Virali Thakkar <vcthakka@usc.edu>
